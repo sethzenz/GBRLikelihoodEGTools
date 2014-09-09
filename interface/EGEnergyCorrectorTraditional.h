@@ -17,9 +17,9 @@
 #include "DataFormats/VertexReco/interface/VertexFwd.h"
 #include "RecoEgamma/EgammaTools/interface/EcalClusterLocal.h"
 #include "RooArgList.h"
+#include "RecoEcal/EgammaCoreTools/interface/EcalClusterLazyTools.h"
 
 class GBRForest;
-class EcalClusterLazyTools;
 
 class EGEnergyCorrectorTraditional {
   public:

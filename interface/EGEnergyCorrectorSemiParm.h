@@ -17,6 +17,8 @@
 #include "DataFormats/VertexReco/interface/VertexFwd.h"
 #include "RecoEgamma/EgammaTools/interface/EcalClusterLocal.h"
 #include "RooArgList.h"
+#include "RecoEcal/EgammaCoreTools/interface/EcalClusterLazyTools.h"
+
 
 class RooWorkspace;
 class RooRealVar;
@@ -24,7 +26,7 @@ class RooAbsPdf;
 class RooAbsReal;
 class HybridGBRForest;
 class HybridGBRForestD;
-class EcalClusterLazyTools;
+//class EcalClusterLazyTools;
 
 class EGEnergyCorrectorSemiParm {
   public:

@@ -5,6 +5,7 @@
 <use   name="Geometry/CaloGeometry"/>
 <use   name="RecoEgamma/EgammaTools"/>
 <use   name="HiggsAnalysis/GBRLikelihood"/>
+<use   name="PhysicsTools/Utilities"/>
 <use name="root"/>
 <use name="roofit"/>
 <export>
